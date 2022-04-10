@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "kakao oauth2 login module",
   "main": "./dist/passport-kakao",
+  "types": "./@types/index.d.ts",
   "keywords": [
     "passport",
     "kakao",
